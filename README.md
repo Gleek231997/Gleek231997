@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently working on [NCD Bond Analysis](https://github.com/Rohit-Vernekar/Data-Wrangling-Project)
 - 🌱 I’m currently learning **Penguin,Unsupervised Machine Learning**
-- 📩 How to reach me **glory.ekbote@gmail.com**
+- 📩 How to reach me **glory.ekbote@gmail.com** / **ge144@scarletmail.rutgers.edu**
 - 🎀 Fun fact **I am a folklore singer**
 
 <hr>
 <h4>Who Am I ?</h4>
-<p></p>
-
+<div>
+<p align ="left">Aspiring data analyst with a blend of industry experience and academic pursuit in data science. With four years of hands-on experience as a full-stack developer</p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xwMmVlemFvejM5dmRvbWlyZ3Zqam9xb3M0YW0zeHV2bWE5Mml2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"
+align = "right" style="width: 400px; height: 353.125px;/></div>
 <hr>
 <h4 align="left">Connect with me:</h4>
 <p align="left">
