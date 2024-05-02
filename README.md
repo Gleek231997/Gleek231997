@@ -1,8 +1,7 @@
 <h2 align="center">Hello 👋, I'm Glory</h2>
 <h3 align="center">An Aspiring Data Science Student</h3>
 
-<img src="https://github.com/Gleek231997/Gleek231997/blob/main/coming%20soon.jpg" style="width: 1400px; height: 353.125px; left: 0px; top: 0px;">
-
+<br><br><br>
 - 🔭 I’m currently working on [NCD Bond Analysis](https://github.com/Rohit-Vernekar/Data-Wrangling-Project)
 - 🌱 I’m currently learning **Penguin,Unsupervised Machine Learning**
 - 📩 How to reach me **glory.ekbote@gmail.com** / **ge144@scarletmail.rutgers.edu**
